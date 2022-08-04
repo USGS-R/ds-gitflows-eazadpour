@@ -18,6 +18,7 @@ In your free time go ahead and start digging a hole in the ground for a [well](h
 
 ## [Getting Water to Your Homes](https://www.usgs.gov/special-topics/water-science-school/science/water-density)
 
+
 ## Dryville's First Water Works 
 
 Now everyone is enjoying running water in their homes. But it took a lot of work to build your water-supply plant ("Horace's Water Works"). Being mayor, you decide that the town of Dryville will be the owner of the new Dryville Water Plant and you'll charge everyone to get water delivered to their houses. Since the Water Plant is owned by Dryville, it has to respond to the needs of its citizens -- such as Mr. Milford, who overcooked his possum stew and started a fire in his kitchen. "Where was the Dryville Fire Department when I needed them!" he complains to the mayor. Very well, you add some fire hydrants to the water-supply pipes and now you are the Fire Chief as well as mayor.
